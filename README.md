@@ -2,7 +2,7 @@
 
 > Index Page
 
-![https:///Users/aysenurdemirkaya/Downloads/homepage.png]
+<img width="1402" alt="homepage" src="https://github.com/aysenurdemirkaya/MeetGO/assets/58405546/dd1e5d21-e94a-44e4-9eac-a06204c0b795">
 
 > Demo
 
