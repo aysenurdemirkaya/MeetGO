@@ -2,7 +2,7 @@
 
 > Index Page
 
-![file:///Users/aysenurdemirkaya/Downloads/homepage.png]
+![htpps:///Users/aysenurdemirkaya/Downloads/homepage.png]
 
 > Demo
 
