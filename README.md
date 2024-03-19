@@ -2,7 +2,7 @@
 
 > Index Page
 
-<img src="images/homepage.png">
+<img src="downloads/homepage.png">
 
 > Demo
 
